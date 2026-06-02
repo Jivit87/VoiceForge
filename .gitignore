@@ -1,0 +1,21 @@
+# Design / research files — not for repo
+screenshots/
+about.md
+design.md
+design_guide.md
+implementation.md
+
+# macOS
+.DS_Store
+
+# Frontend
+frontend/.next/
+frontend/node_modules/
+frontend/.env*
+frontend/output.css
+frontend/tsconfig.tsbuildinfo
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
