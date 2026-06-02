@@ -6,11 +6,11 @@ Generate any voice in plain English. Describe the tone, accent, age, and style �
 
 ## UI Preview
 
-![VoiceForge Hero](UI/Screenshot%202026-06-02%20at%2011.45.48%20PM.png)
+![VoiceForge Hero](UI/hero.png)
 
 *Hero page — describe any voice, get audio in seconds*
 
-![How it Works](UI/Screenshot%202026-06-02%20at%2011.46.09%20PM.png)
+![How it Works](UI/how-it-works.png)
 
 *How it works — voice instruction → neural synthesis → high-fidelity audio*
 
