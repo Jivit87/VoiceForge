@@ -10,6 +10,10 @@ Generate any voice in plain English. Describe the tone, accent, age, and style �
 
 *Hero page — describe any voice, get audio in seconds*
 
+![VoiceForge Studio](UI/studio.png)
+
+*Voice Studio — describe a voice, paste your text, generate*
+
 ![How it Works](UI/how-it-works.png)
 
 *How it works — voice instruction → neural synthesis → high-fidelity audio*
